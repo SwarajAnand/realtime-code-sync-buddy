@@ -74,7 +74,7 @@ const Home = () => {
       <footer>
         <h4>
           Built for a change by &nbsp;
-          <a href="">Swaraj & Yashika</a>
+          <a href="https://github.com/SwarajAnand/realtime-code-sync-buddy">Swaraj & Yashika</a>
         </h4>
       </footer>
     </div>
