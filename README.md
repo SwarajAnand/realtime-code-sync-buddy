@@ -1,3 +1,5 @@
+TO START the project => 
+
 npm i;
 
 fix all the dependencies and check the 
